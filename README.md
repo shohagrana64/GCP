@@ -1,2 +1,0 @@
-# GCP
- GCP badges practice
